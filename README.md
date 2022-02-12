@@ -6,6 +6,6 @@
 
 Repository for my [A1387 iPhone 4S](https://support.apple.com/kb/sp643?locale=en_US) given to me by my friend [@crustelf](https://twitter.com/crustelf).
 
-**iOS Version**: 9.3.6 (13G37)
-**Model**: MC924LL/A
-**Serial Number**: DX3JM73SDTD0
+- **iOS Version**: 9.3.6 (13G37)
+- **Model**: MC924LL/A
+- **Serial Number**: DX3JM73SDTD0
