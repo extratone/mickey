@@ -1,0 +1,21 @@
+Device Model                                       iPhone 4s                              iPhone 4s                              Normal
+Device Color                                       Front White£¬Rear White                Front White£¬Rear White                Normal
+Hard Disk Capacity                                 16GB                                   16GB MLC                               Normal
+Sales Model                                        MC924                                  MC924                                  Normal
+Sales Area                                         LL/A                                   LL/A                                   Normal
+Bluetooth Address                                  A8:FA:D8:0D:1F:09                      A8:FA:D8:0D:1F:09                      Normal
+Cellular Address                                   A8:FA:D8:0D:1F:0A                      A8:FA:D8:0D:1F:0A                      Normal
+Wi-Fi Address                                      A8:FA:D8:0D:1F:08                      A8:FA:D8:0D:1F:08                      Normal
+Serial Number                                      DX3JM73SDTD0 2012-11-04                DX3JM73SDTD0 2012-11-04                Normal
+Mainboard Serial No.                               DQ524161UYVDQ5MF 2012-10-13            DQ524161UYVDQ5MF 2012-10-13            Normal
+Battery Serial Number                              LN23662330CW331430 2012-09-08          LN23662330CW331430 2012-09-08          Normal
+Rear Camera                                        DNL24051DG2DNWL1L 2012-10-05           N/A                                    Unknown
+Front Camera                                       DN72431154ZDNT91T 2012-10-22           N/A                                    Unknown
+Screen Serial Number                               CTD23060H82DJGJL 2012-07-28            User decision needed                   N/A
+
+Production Date 2012/11/04 (44th Week )            Warranty Date N/A                      Apple ID Lock On
+iOS Version 9.3.6 (13G37)                          Activated Yes                          Jailbroken No
+Battery Life 72% (Replacement is advised)          Charge Times 426 Times                 Wi-Fi Module Low Temp Wi-Fi
+Carrier Status No SIM detected                     Verify Serial Number Yes               Verify UDID Yes
+
+Report Date 2022-03-16
