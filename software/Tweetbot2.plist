@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+	<key>items</key>
+	
+<array>
+		<dict>
+	
+		<key>assets</key>
+	
+		<array>
+				<dict>
+	
+				<key>kind</key>
+			
+		<string>software-package</string>
+	
+				<key>url</key>
+		
+			<string>https://ia601409.us.archive.org/34/items/TweetBot2/TweetBot2.ipa</string>
+	
+			</dict>
+				<dict>
+	
+				<key>kind</key>
+					<string>full-size-image</string>
+
+					<key>needs-shine</key>
+					<true/>
+		
+			<key>url</key>
+				
+	<string>http://im78.gulfup.com/oU0677.jpeg</string>
+	
+			</dict>
+				<dict>
+					
+<key>kind</key>
+					<string>display-image</string>
+		
+			<key>needs-shine</key>
+				
+	<true/>
+					<key>url</key>
+					<string>http://im78.gulfup.com/oU0677.jpeg</string>
+	
+			</dict>
+			</array>
+		
+	<key>metadata</key>
+			<dict>
+	
+			<key>bundle-identifier</key>
+		
+		<string>com.youthhr.biensports</string>
+		
+		<key>bundle-version</key>
+				<string>2.1.2</string>
+	
+			<key>kind</key>
+			
+	<string>software</string>
+				<key>subtitle</key>
+	
+			<string>Biensports</string>
+				<key>title</key>
+		
+		<string>
+		
+		TweetBot iOS8
+		
+الرجاء التأكد من تحميل أداة 
+Appsync
+
+أخوكم : عبدالرحمن العنزي
+
+@a_al_3nZi 🌹 
+</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
