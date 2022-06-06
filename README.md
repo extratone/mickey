@@ -9,3 +9,13 @@ Repository for my [A1387 iPhone 4S](https://support.apple.com/kb/sp643?locale=en
 - **iOS Version**: 9.3.6 (13G37)
 - **Model**: MC924LL/A
 - **Serial Number**: DX3JM73SDTD0
+
+## Related Resources
+
+- [SoftwareHistorySociety's iPhoneOS Repository](https://github.com/softwarehistorysociety/iphoneOS)
+
+### Box File Transfer
+
+The only cloud means I've been able to configyue
+
+- [Box Notes](https://app.box.com/s/vbet38pluemmpjibwxuyktvtqbkg8024)
